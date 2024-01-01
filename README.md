@@ -1,0 +1,2 @@
+# ArcoLinuxB-wayland Calamares configuration
+
