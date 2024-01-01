@@ -7,7 +7,7 @@
   expanded: false
   packages:
     - archlinux-logout-git
-    - arcolinux-hyprland-git
+    - arcolinux-hyprland-nemesis-git
     - arcolinux-kitty-git
     - hyprland-git
     - kitty
@@ -28,7 +28,7 @@
     - archlinux-logout-git
     - arcolinux-kitty-git
     - arcolinux-nwg-drawer-git
-    - arcolinux-sway-git
+    - arcolinux-sway-nemesis-git
     - kitty
     - nwg-drawer-bin
     - rofi-lbonn-wayland-only-git
@@ -55,7 +55,7 @@
     - arcolinux-rofi-themes-git
     - arcolinux-wallpapers-wayfire-git
     - arcolinux-wayfire-dconf-git
-    - arcolinux-wayfire-git
+    - arcolinux-wayfire-nemesis-git
     - arcolinux-xfce-git
     - feh
     - foot
